@@ -1,10 +1,11 @@
 ---
+layout: post
 title: 20 Linux Commands For Better Programming
 author: sajith
 date: '2020-11-16 18:40:23 +0530'
 categories: [ Linux ]
 tags: [Linux]
-hidden: true
+hidden: false
 ---
 
 As a linux user over a decade, I can say that experienced linux users have an everlasting intimate bond with linux shell commands even though they were struggling to become familiar at the beginning. Things that can be done with shell commands are more powerful and efficient than GUIs that might take more and more steps. Because it’s just a single line command. Thus learning shell commands in linux improves your productivity as well as self-confidence on using linux distros.
